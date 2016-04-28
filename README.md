@@ -1,3 +1,3 @@
 # hello-metaverse
-git hub test \n
-This is my first change
+## git hub test 
+### This is my first change
